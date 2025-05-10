@@ -15,7 +15,7 @@ Regression
 Classification (3-Class)
 1. [ResNet](https://github.com/kenshohara/3D-ResNets-PyTorch)
 2. [CoAtNet](https://github.com/Uljibuh/3D_CoAtNet?tab=readme-ov-file)
-3. Residual SFCN (added ECA Block)  ---> Best Accuracy 67% (111/166)
+3. Residual SFCN (added ECA Block)  --> Best Acc 67%
 
 <br>
 
