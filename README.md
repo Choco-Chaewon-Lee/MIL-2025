@@ -6,10 +6,11 @@ Dataset & Refrence : 이지호, "경동맥 MRA 이미지를 이용한 딥러닝 
 <br>
 <br>
 ## Trial
+
 Regression
 1. Residual SFCN (added ECA Block)
 2. Residual SFCN (added ECA Block) & RegMix
-<br>
+
 Classification (3-Class)
 1. ResNet (https://github.com/kenshohara/3D-ResNets-PyTorch)
 2. ResNet + Attention (https://github.com/Jongchan/attention-module)
