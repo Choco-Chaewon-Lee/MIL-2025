@@ -11,8 +11,8 @@ Regression
 1. Residual SFCN (added ECA Block)
 2. Residual SFCN (added ECA Block) & RegMix
 
-Classification
+Classification (3-Class)
 1. ResNet (https://github.com/kenshohara/3D-ResNets-PyTorch)
 2. ResNet + Attention (https://github.com/Jongchan/attention-module)
 3. CoAtNet (https://github.com/Uljibuh/3D_CoAtNet?tab=readme-ov-file)
-4. Residual SFCN (added ECA Block)
+4. Residual SFCN (added ECA Block)  -> V Best Accuracy 67% (111/166) 
